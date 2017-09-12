@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"Un",
+				"UniformToFill\t"
+			],
+			[
+				"Is",
+				"IsLooping\t"
+			],
+			[
+				"Re",
+				"Rectangle\t"
+			],
+			[
+				"Text",
+				"TextColor\t"
+			],
+			[
+				"Column",
+				"ColumnCount\t"
+			],
+			[
+				"Default",
+				"DefaultPath\t"
+			],
+			[
+				"Page",
+				"PageControl\t"
+			],
+			[
+				"Java",
+				"JavaScript\t"
+			],
+			[
+				"Scroll",
+				"ScrollView\t"
+			],
+			[
+				"Font",
+				"FontSize\t"
+			],
+			[
+				"backl",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 493.0
+	},
+	"console":
+	{
+		"height": 123.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/robertflyoyd/Documents/split.liquid",
+		"/Users/robertflyoyd/Robert-Gauge/shopify-sandbox/config.yml",
+		"/Users/robertflyoyd/Robert-Gauge/shopify-sandbox/sections/footer.liquid",
+		"/Users/robertflyoyd/Robert-Gauge/shopify-sandbox/sections/product-template.liquid",
+		"/Users/robertflyoyd/Robert-Gauge/shopify-sandbox/templates/product.liquid",
+		"/Users/robertflyoyd/Robert-Gauge/shopify-sandbox/config/settings_schema.json",
+		"/Users/robertflyoyd/Dropbox (Gauge)/Gauge Team Folder/GaugeInternalDesign/README.md",
+		"/Users/robertflyoyd/Desktop/index.html",
+		"/Users/robertflyoyd/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder/wp-config.php",
+		"/Users/robertflyoyd/Dropbox/Gauge/Gauge-Brand/Identity/Imagery/mood/wfu_constants.php",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Modules/Context.js",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Modules/Backend.js",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Pages/Homepage.js",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Pages/Homepage.ux",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Pages/EditHikePage.ux",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/MainView.ux",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Pages/SplashPage.ux",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Components/hikr.Button.ux",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Pages/Splashpage.js",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Components/hikr.Page.ux",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Components/hikr.TextView.ux",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Components/hikr.Text.ux",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Components/hikr.TextBox.ux",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Hikr.unoproj",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Pages/EditHikePage.js",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Modules/backend.js",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/Modules/context.js",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/hikes.js",
+		"/Users/robertflyoyd/Dropbox/Hikr/Hikr/build/iOS/Preview/src/Fuse.App.mm",
+		"/Users/robertflyoyd/Dropbox/Test Fuse Project/Test/MainView.ux",
+		"/Users/robertflyoyd/Library/Application Support/Sublime Text 3/Packages/Fuse/UserGuide.txt",
+		"/Users/robertflyoyd/Documents/AutoLayoutPlugin.sketchplugin/Contents/Resources/AutoLayoutPlugin.bundle/Contents/Resources/auto-layout-manifest.json",
+		"/Users/robertflyoyd/Documents/AutoLayoutPlugin.sketchplugin/Contents/Sketch/autolayout.js",
+		"/Users/robertflyoyd/Google Drive/Gauge Robert/Marketing & Branding/Website Content/Shopify Plus Page/design/web-assets/icons/heartIcon.svg",
+		"/Applications/MAMP/htdocs/gaugeinteractive/wp-content/themes/phoenix/css/phoenix.css",
+		"/Applications/MAMP/htdocs/gaugeinteractive/wp-content/themes/phoenix/style.css",
+		"/Users/robertflyoyd/Dropbox/Templates/Sketch/bootsketch-master/README.md",
+		"/Users/robertflyoyd/Documents/AnimateMate-master/README.md",
+		"/Volumes/ROBERTFLOYD/01443-New Website/images/jpg/home/cross-svg.svg",
+		"/Volumes/GAUGE-ROBER/Clients/Great Dane/design/finals/final-assets/images/svg/tg-logo.svg",
+		"/Volumes/GAUGE-ROBER/Clients/Great Dane/design/finals/final-assets/images/svg/thermometer-filling.svg",
+		"/Users/robertflyoyd/Desktop/otc-rewards.html",
+		"/Users/robertflyoyd/Desktop/custom-maps.html",
+		"/Users/robertflyoyd/Desktop/mailchimp-menu.html",
+		"/Applications/MAMP/htdocs/gaugeinteractive/wp-content/themes/supernova/css/custom.css",
+		"/Applications/MAMP/htdocs/gaugeinteractive/wp-content/themes/supernova/css/style.css",
+		"/Applications/MAMP/htdocs/gaugeinteractive/wp-content/themes/supernova/style.css",
+		"/Users/robertflyoyd/Desktop/footer.html",
+		"/Users/robertflyoyd/Desktop/header-nav-bar.html",
+		"/Users/robertflyoyd/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/robertflyoyd/Library/Application Support/com.bohemiancoding.sketch3/Plugins/Sketch Notebook/library/notebook.js",
+		"/Users/robertflyoyd/Library/Application Support/com.bohemiancoding.sketch3/Plugins/Sketch Notebook/library/notebook.json",
+		"/Users/robertflyoyd/Documents/sketch-measure-master/README.md",
+		"/Users/robertflyoyd/Desktop/email.html",
+		"/Applications/MAMP/htdocs/gaugeinteractive/wp-content/themes/phoenix/header.php",
+		"/Applications/MAMP/htdocs/gaugeinteractive/wp-content/themes/phoenix/index.php",
+		"/Applications/MAMP/htdocs/gaugeinteractive/wp-content/themes/phoenix/scss/_global.scss",
+		"/Volumes/PRECIOUSSES/WORK/GAUGE/Clients/Hope's/Website/Images/404.phtml",
+		"/Applications/MAMP/htdocs/gaugeinteractive/wp-content/themes/phoenix/scss/pages/_about.scss",
+		"/Applications/MAMP/htdocs/gaugeinteractive/wp-content/themes/phoenix/scss/pages/_pages.scss",
+		"/Applications/MAMP/htdocs/gaugeinteractive/wp-content/themes/phoenix/scss/_colors.scss",
+		"/Applications/MAMP/htdocs/gaugeinteractive/wp-content/themes/phoenix/scss/phoenix.scss",
+		"/Applications/MAMP/htdocs/gaugeinteractive/wp-content/themes/phoenix/Build/scss/phoenix.css",
+		"/Users/robertflyoyd/Documents/Sublime Text Yosemite Icon/Sublime Text.icns",
+		"/Users/robertflyoyd/Documents/Sublime Text Yosemite Icon/Sublime Text.ico"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"siteurl",
+			"http",
+			"TextView",
+			"http://www.mapresources.com",
+			"https://www.mapresources.com",
+			"http://www.mapresources.com",
+			"\t",
+			"> <",
+			"http://www.mapresources.com",
+			"http://",
+			"www.mapresources.com",
+			"www.mapresources.com\n",
+			"background-color",
+			"font",
+			"optima"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.FuseBuildResults":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shopify-sandbox.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
