@@ -14,7 +14,7 @@ assets/theme.scss.liquid:
 config/settings_data.json:
   development: 2017-09-11T15:49:46-04:00   5ffcc4bdbce5ed219ef4d218102879f1
 config/settings_schema.json:
-  development: 2017-09-11T15:49:48-04:00   b438684ace721b37d14049a7b2a9096e
+  development: 2017-09-11T19:16:49-04:00   9291395ab0adf204636f8e134d2febb4
 layout/giftcard.liquid:
   development: 2017-09-11T15:49:48-04:00   383c724191e4fbe7c8e9db0667fdeba9
 layout/password.liquid:
@@ -80,7 +80,7 @@ sections/password-footer.liquid:
 sections/password-header.liquid:
   development: 2017-09-11T15:49:45-04:00   75c2f28653bbb373eac3cac397ffba9e
 sections/product-template.liquid:
-  development: 2017-09-11T15:49:45-04:00   2aaecd6edc994ba5a144949998c7b554
+  development: 2017-09-11T19:26:12-04:00   f1bcaecf22b5d555157ba2d856620be9
 sections/quotes.liquid:
   development: 2017-09-11T15:49:45-04:00   5d1bce2f44809915d2a3f1cddd2811a3
 sections/search-template.liquid:
